@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -569,4 +570,103 @@
 <!-- Livro 43 -->
 <div class="livro-card">
   <a href="https://pay.kirvano.com/a3755297-9244-4c59-92b2-c347cb71401d" class="capa-link" target="_blank">
-    <img src="https://i.ibb.co/yn5sWCSk/069d75581
+    <img src="https://i.ibb.co/yn5sWCSk/069d75581127.jpg" class="capa-livro" alt="Livro 43">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Segredo da psicologia sombria</h3>
+  </div>
+</div>
+
+<!-- Livro 44 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/210965b9-ab56-49a1-a42c-f9a806cdcd33" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/8nJ2Jwc0/30d579edd696.jpg" class="capa-livro" alt="Livro 44">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Segredos da Psicologia Obscura</h3>
+  </div>
+</div>
+
+<!-- Livro 45 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/32b3d885-dcec-4354-a2cb-de9787a90901" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/Xkx0gP1d/7c18a7d640d3.jpg" class="capa-livro" alt="Livro 45">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Segredos da psicologia sombria e técnica de manipulação como ser livre</h3>
+  </div>
+</div>
+
+<!-- Livro 46 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/7322e717-4517-401e-a4a6-60d278c116cc" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/s9bV9NXD/84c861ad53e8.jpg" class="capa-livro" alt="Livro 46">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Sem consciência o mundo perturbador dos psicopatas que vivem entre nós</h3>
+  </div>
+</div>
+
+<!-- Livro 47 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/593e3c3d-c570-4a44-9c9d-de600f29ae47" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/DTcY1JV/b001d6969df7.jpg" class="capa-livro" alt="Livro 47">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Sequestradores de almas</h3>
+  </div>
+</div>
+
+<!-- Livro 48 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/e2d6d075-1c52-4baa-8a67-35324b548d28" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/HTz06LNJ/b19f236fe9ac.jpg" class="capa-livro" alt="Livro 48">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Seus pontos fracos</h3>
+  </div>
+</div>
+
+<!-- Livro 49 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/e5c1d951-6f08-4592-b99f-7a89fa5b8146" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/GfqW65T9/45c545b56299.jpg" class="capa-livro" alt="Livro 49">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Singular o poder de ser diferente</h3>
+  </div>
+</div>
+
+<!-- Livro 50 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/f4c0cdad-249e-41ac-bece-64811386cc01" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/Dg1fDH8P/fc21902e7628.jpg" class="capa-livro" alt="Livro 50">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Tabuleiro das sombras</h3>
+  </div>
+</div>
+
+<!-- Livro 51 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/608ac61c-1904-40f4-bab4-174785f5c17e" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/HpPbqvkM/3720c5000ba7.jpg" class="capa-livro" alt="Livro 51">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Técnicas de manipulação</h3>
+  </div>
+</div>
+
+<!-- Livro 52 -->
+<div class="livro-card">
+  <a href="https://pay.kirvano.com/bb8fec8d-16d9-48ff-a9ec-baca426cb366" class="capa-link" target="_blank">
+    <img src="https://i.ibb.co/Znm6ytS/0a38a5ba4276.jpg" class="capa-livro" alt="Livro 52">
+  </a>
+  <div class="livro-info">
+    <h3 class="livro-titulo">Técnicas Proibidas de Persuasão, Manipulação e Influência</h3>
+  </div>
+</div>
+        </section>
+    </main>
+</body>
+</html>
